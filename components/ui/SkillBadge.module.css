@@ -1,0 +1,19 @@
+.item {
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  padding: 0.75rem;
+  display: grid;
+  gap: 0.4rem;
+}
+
+.heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.75rem;
+  align-items: baseline;
+}
+
+.heading span {
+  color: var(--color-text-subtle);
+  font-size: 0.85rem;
+}
