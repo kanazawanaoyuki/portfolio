@@ -1,0 +1,13 @@
+.wrapper {
+  margin-bottom: 1.5rem;
+}
+
+.wrapper h2 {
+  font-size: clamp(1.4rem, 2.2vw, 1.9rem);
+  margin-bottom: 0.5rem;
+}
+
+.wrapper p {
+  color: var(--color-text-subtle);
+  max-width: 70ch;
+}
