@@ -1,3 +1,4 @@
+
 "use client";
 
 import Link from "next/link";
@@ -51,6 +52,7 @@ export function Header() {
             UI Showcase
           </Link>
         </nav>
+
       </div>
     </header>
   );
