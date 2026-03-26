@@ -1,7 +1,7 @@
 import type { NavItem } from "@/types/portfolio";
 
 export const siteMeta = {
-  title: "Yuki Tanaka | Frontend Engineer Portfolio",
+  title: "Naoyuki Kanazawa | Frontend Engineer Portfolio",
   description:
     "Web制作の基礎力と、React / Next.js / TypeScript を使った実務寄りUI開発力を伝えるポートフォリオ。",
   url: "https://example.com"
@@ -17,7 +17,7 @@ export const navItems: NavItem[] = [
 ];
 
 export const hero = {
-  name: "Yuki Tanaka",
+  name: "Naoyuki Kanazawa",
   role: "Frontend Engineer / Markup Engineer",
   intro:
     "HTML/CSSを土台に、Next.js・React・TypeScriptで保守しやすいUIを実装します。派手さよりも、読みやすく運用しやすい実装を大切にしています。"
